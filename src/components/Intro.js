@@ -34,7 +34,7 @@ const Intro = () => {
         <img className="resume" src={Resume} />
     
         
-        <p className="description">C.S graduate from UCLA with industry experience in Full-Stack development</p>
+        <p className="description">C.S graduate from UCLA who works at ZoomInfo</p>
         <FadeIn delay={100}>
         <div className="blue-circle"></div>
         </FadeIn>
