@@ -13,8 +13,8 @@ const Experience = () => {
             <div className="flex-item-2"><img className="ucla" src={Ucla} /></div>
           </div>
           <div className="flex-grid" >
-            <div className="flex-item-1"><p className="center-text company-name">Textpert</p></div>
-            <div className="flex-item-2"><p className="center-text company-name">UCLA Social Sciences Computing</p></div>
+            <div className="flex-item-1"><p className="center-text company-name">MicroNvidia</p></div>
+            <div className="flex-item-2"><p className="center-text company-name">GoogFacebook</p></div>
           </div>
           <div className="flex-grid">
             <div className="flex-item-1"><p className="center-text">SWE Intern</p></div>
